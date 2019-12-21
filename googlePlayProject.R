@@ -13,7 +13,7 @@ library(tidyr)
 googleplay<- na.omit(googleplay) #omit any missing values
 
 distinct <- nrow(googleplay %>% 
-                   distinct())#scan for duplicates
+                   distinct()) #scan for duplicates
 nrow(googleplay) - distinct
 
 googleplay=googleplay[!duplicated(googleplay), ] #omit duplicates
