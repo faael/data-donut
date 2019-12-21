@@ -1,2 +1,2 @@
 # data-donut
-Data project in R for Google Play
+Project using Google Play dataset in R
