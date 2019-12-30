@@ -1,3 +1,4 @@
 # data-donut
 Project for Business Analytics course using the Google Play dataset in R with exploratory analyis and k-means clustering. 
-Able to demonstrate some minor data cleansing, exploratory analysis, importing various packages and visualizations of data with various techniques. 
+
+Based on our clustering and other analysis, we believe the primarily focus in terms of app development and success outcomes should be on ratings of the app. This seems to be the most important of the parameters to define success of an app in the dataset. Using rating feedback, app developers can utilize feedback and improve and become a top app for their respective category. While it doesn’t seem that there is much sales/revenues to be made in the app space based on price per single download, overall rating points to a huge determinate of whether an app will be downloaded and therefore will cause more installs and even a low price per download will result in positive overall revenue/sales/installs. 
